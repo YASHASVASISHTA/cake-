@@ -109,7 +109,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 472px) {
     nav ul {
         display: block;
         text-align: center;
